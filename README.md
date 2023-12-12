@@ -2,6 +2,8 @@
 
 LessonLoom is an open source MERN stack application designed as a platform for students and educators to plan and consume curated lessons. Lessons can be arranged as a series of YouTube videos from one or more creators, which can then be viewed by anyone.
 
+Deployed Link: [https://lessonloom-2c9744db35b4.herokuapp.com/](https://lessonloom-2c9744db35b4.herokuapp.com/)
+
 ## Tech Stack
 ### Languages
 - HTML
