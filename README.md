@@ -4,21 +4,21 @@ LessonLoom is an open source MERN stack application designed as a platform for s
 
 Deployed Link: [https://lessonloooom-066f39f355bd.herokuapp.com/](https://lessonloooom-066f39f355bd.herokuapp.com/)
 
-## Tech Stack
-### Languages
+## Tech Stack:
+### Languages:
 - HTML
 - CSS
 - JavaScript
-### Libraries/Frameworks
+### Libraries/Frameworks:
 - Node.js: [https://nodejs.org/en](https://nodejs.org/en)
 - Express.js: [https://expressjs.com/](https://expressjs.com/)
 - React.js: https://react.dev/
 - MongoDB: [https://www.mongodb.com/](https://www.mongodb.com/)
 - Mongoose: [https://mongoosejs.com/](https://mongoosejs.com/)
-### APIs
+### APIs:
 - Google API: [https://developers.google.com/identity](https://developers.google.com/identity)
 - YouTube API: [https://developers.google.com/youtube/](https://developers.google.com/youtube/)
-### Software
+### Software:
 - VSCode: https://code.visualstudio.com/
 - VSCodium: https://vscodium.com/
 - LucidApp: https://lucid.app/
@@ -47,7 +47,7 @@ Deployed Link: [https://lessonloooom-066f39f355bd.herokuapp.com/](https://lesson
 - Miro: https://miro.com/
 - LucidApp: https://lucid.app/
 
-## Features
+## Features:
 - Login with Google
 - Create courses
 - Add lessons to courses
@@ -58,7 +58,7 @@ Deployed Link: [https://lessonloooom-066f39f355bd.herokuapp.com/](https://lesson
 - Access courses and lessons
 - Conditional creator view of courses
 
-## User View Wireframes
+## User View Wireframes:
 ### Home Screen:
 ![Home Screen](./public/lessonloomwireframehomescreen.png)
 ### Course Screen:
@@ -85,7 +85,7 @@ Deployed Link: [https://lessonloooom-066f39f355bd.herokuapp.com/](https://lesson
 ## RESTful Routing Chart:
 ![RESTful Routing Chart](./public/lessonloomrestfulrouting.png)
 
-## MVP
+## MVP:
 ### To reach the minimum viable product, the project will:
 - Authenticate and create accounts with Google accounts via OAuth
 - Render login prompt screen if a user isn't logged in when attempting to use account-based features
