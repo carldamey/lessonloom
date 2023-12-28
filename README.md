@@ -26,7 +26,7 @@ Deployed Link: [https://lessonloooom-066f39f355bd.herokuapp.com/](https://lesson
 - Figma: https://www.figma.com/
 - Slack: https://slack.com/
 - Zoom: https://zoom.us/
-# Project Planning 
+# Original Project Pitch 
 
 ## Technologies Used:
 ### Languages:
